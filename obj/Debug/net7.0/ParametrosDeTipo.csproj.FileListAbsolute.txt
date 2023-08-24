@@ -1,0 +1,15 @@
+C:\Projetos\ParametrosDeTipo\bin\Debug\net7.0\ParametrosDeTipo.exe
+C:\Projetos\ParametrosDeTipo\bin\Debug\net7.0\ParametrosDeTipo.deps.json
+C:\Projetos\ParametrosDeTipo\bin\Debug\net7.0\ParametrosDeTipo.runtimeconfig.json
+C:\Projetos\ParametrosDeTipo\bin\Debug\net7.0\ParametrosDeTipo.dll
+C:\Projetos\ParametrosDeTipo\bin\Debug\net7.0\ParametrosDeTipo.pdb
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\ParametrosDeTipo.csproj.AssemblyReference.cache
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\ParametrosDeTipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\ParametrosDeTipo.AssemblyInfoInputs.cache
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\ParametrosDeTipo.AssemblyInfo.cs
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\ParametrosDeTipo.csproj.CoreCompileInputs.cache
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\ParametrosDeTipo.dll
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\refint\ParametrosDeTipo.dll
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\ParametrosDeTipo.pdb
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\ParametrosDeTipo.genruntimeconfig.cache
+C:\Projetos\ParametrosDeTipo\obj\Debug\net7.0\ref\ParametrosDeTipo.dll
